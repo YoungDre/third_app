@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-ThirdApp::Application.config.secret_token = '4ec40890538575e8943deee4aa48407bdbf847b05ebf9c4390e72ea96f6c6a5f8906168228e31382f007a85e9a6447440add39e5e248b0d86e535ac13ef4d738'
+ThirdApp::Application.config.secret_token = 'c07667756b9e9ae70708e948876abfd77e4c2d8d6d94d48fa1ccac6f88030281a54282450719dc40f354b897b27787a2a2c239675ef137ae9f17c38af4112f7b'

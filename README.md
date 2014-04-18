@@ -1,3 +1,3 @@
-#Rails in 20mins: Third App
+#Jacob: Third App
 
-This is the Third app in Rails in 20mins series by [Deandre Gibson](http://www.DeandreGibson.com)
+This is the third app in the Rails in 20min series by [Alfonso Rush]
